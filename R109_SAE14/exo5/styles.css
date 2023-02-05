@@ -1,0 +1,36 @@
+#color_jaune{
+    background-color: #fffb00;
+}
+#entete{
+    background-color: #fffb00;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0px;
+}
+#principale{
+    background-color: #ff9500;
+    color: #000000;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0px;
+    height: 400px;
+}
+#pied{
+    background-color: #0fcd51;
+    color: #000000;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px;
+    height: 2px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+
+}

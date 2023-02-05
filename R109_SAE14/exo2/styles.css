@@ -1,0 +1,21 @@
+#center_bold {
+    font-weight: bold;
+    text-align: center;
+}
+
+#titre { display:inline-block;margin-right:10px;
+        font-weight: bold;
+} 
+#buton {display:inline-block;
+}
+
+#produit{
+    display:inline-block;margin-right:10px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+#prix{
+    display:inline-block;margin-right:10px;
+}

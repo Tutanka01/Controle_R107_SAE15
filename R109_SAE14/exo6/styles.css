@@ -1,0 +1,11 @@
+/* id selector qui fait un care entoure de pointillets */
+#exo6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 200px;
+    background: silver;
+    font-family: 'Arial';
+    border-style: dotted;
+  }

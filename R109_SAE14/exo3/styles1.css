@@ -1,0 +1,19 @@
+#color-rouge {
+    color: #ff0000;
+}
+#color-bleu {
+    color: #0000ff;
+}
+#color-vert {
+    color: #00ff00;
+}
+#centrer {
+    text-align: center;
+}
+
+
+u {
+    text-decoration: underline;
+    text-decoration-style: solid;
+  }
+  
